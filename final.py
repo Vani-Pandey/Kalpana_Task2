@@ -9,8 +9,8 @@ import numpy as np
 import sys
 plt.rcParams.update({
     'font.size': 8,             
-    'xtick.labelsize': 7,     
-    'ytick.labelsize': 7,         
+    'xtick.labelsize': 6,     
+    'ytick.labelsize': 6,         
 })
 
 def button_clicked():
